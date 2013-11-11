@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "name": "Avisaê!",
+  "launch_path": "index.html",
+  "description": "Nunca mais passe do ponto!",
+  "developer": {
+    "name": "Avisae INC.",
+    "url": "http://fateczl.edu.br"
+  },
+  "icons": {
+    "128": "/icon/avisae128.png",
+    "60": "/icon/avisae60.png"
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "pt-BR",
+  "type": "privileged",
+  "permissions": {
+    "geolocation":{}
+   }
+}

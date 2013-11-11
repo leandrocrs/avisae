@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2999"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="buss.svg">
+  <defs
+     id="defs3011" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="777"
+     id="namedview3009"
+     showgrid="false"
+     inkscape:zoom="0.98333333"
+     inkscape:cx="110.39702"
+     inkscape:cy="206.30163"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2999" />
+  <title
+     id="title3001">buss</title>
+  <metadata
+     id="metadata18081">image/svg+xmlPublic Domainclker.comMohamed Ibrahimmap symbolsmap symbolsimage/svg+xmlMap SymbolsMohamed IbrahimPublic Domain Licenseclker.commap symbols<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <rect
+     style="fill:#d90003;fill-opacity:1;stroke:none;stroke-width:0.75951957999999997;stroke-opacity:1"
+     id="rect3016"
+     width="255.24048"
+     height="255.24048"
+     x="0.37975979"
+     y="0.37976074" />
+  <path
+     style="fill:#ffffff;fill-rule:nonzero"
+     inkscape:connector-curvature="0"
+     d="m 174.6588,44.006346 c -1.47099,-7.31787 -6.14864,-10.240914 -13.18328,-13.164357 -7.03503,-2.942372 -23.50035,-6.431484 -35.77833,-6.431484 -12.2973,0 -28.762224,3.489112 -35.797249,6.431484 -7.035045,2.923443 -11.712313,5.846487 -13.183699,13.164357 l -5.280813,40.587739 0,55.921325 9.109576,0 0,8.77033 c 0,10.67483 15.65427,10.67483 15.65427,0 l 0,-8.77033 59.014375,0 0,8.77033 c 0,10.67483 15.6164,10.67483 15.6164,0 l 0,-8.77033 9.09104,0 0,-55.921325 -5.26229,-40.587739 z m -73.51795,-10.637365 49.07483,0 c 4.82835,0 4.82835,9.147432 0,9.147432 l -49.07483,0 c -4.809425,0 -4.809425,-9.147432 0,-9.147432 M 88.353202,123.72977 c -4.545113,0 -8.242122,-3.67805 -8.242122,-8.26104 0,-4.54512 3.697009,-8.24213 8.242122,-8.24213 4.564455,0 8.261063,3.69701 8.261063,8.24213 0,4.58299 -3.696608,8.26104 -8.261063,8.26104 m 74.668658,0 c -4.56406,0 -8.27961,-3.67805 -8.27961,-8.26104 0,-4.54512 3.71555,-8.24213 8.27961,-8.24213 4.52658,0 8.22317,3.69701 8.22317,8.24213 0,4.58299 -3.69659,8.26104 -8.22317,8.26104 m 3.24414,-34.854069 -81.043333,0 c -2.357771,0 -4.319085,-1.961714 -4.319085,-4.319089 0,-0.396053 0.07534,-0.773569 0.150686,-1.131744 l 4.319086,-32.006367 c 0.358177,-1.9992 2.131333,-3.545534 4.224807,-3.545534 l 72.273409,0 c 2.09347,0 3.86624,1.546334 4.24335,3.545534 l 4.30015,32.006367 c 0.0757,0.358175 0.15107,0.735691 0.15107,1.131744 0,2.357375 -1.94277,4.319089 -4.30014,4.319089"
+     id="path6764" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="31.525423"
+     y="230.57626"
+     id="text2999"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3001"
+       x="31.525423"
+       y="230.57626"
+       style="fill:#ffffff;font-weight:bold;-inkscape-font-specification:Sans Bold;font-style:normal">avisaê!</tspan></text>
+</svg>
