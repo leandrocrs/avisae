@@ -1,20 +1,18 @@
-/**
-* Bootstrap
+// DECLARACAO
+var map = null;
 
+// BOOTSTRAP
 function bootstrap(){
-	var str_nome_tabela = ""
+	/*var str_nome_tabela = ""
 	var bd = localStorage.getItem(str_nome_tabela);
 	if (bd == null){
 		console.log("Banco inexistente");
 		localStorage.setItem("0",eval)
-	}
-
+	}*/
+	navigator.geolocation.getCurrentPosition(showpos)
 }
-*/
 
-/**
-* Eventos
-*/
+//EVENTOS
 function btnAdicionarClick(){
 	console.log("sera");	
 	document.getElementById('confirmAdicionar').style.display='none';	
@@ -24,9 +22,7 @@ function btnCancelarClick(){
 	document.getElementById('confirmAdicionar').style.display='none';
 }
 
-/**
-* Seta o alarme
-*/
+// ALARME
 function addAlarm(){
 		
 	var resposta = navigator.mozAlarms.add(new Date().setSeconds(new Date().getSeconds()+5), "honorTimezone");
@@ -41,9 +37,7 @@ function addAlarm(){
 
 }
 
-/** 
-*	GMAPS
-*/
+// GEOLOCATION
 function showpos(position){
 	lat=position.coords.latitude;
 	lon=position.coords.longitude;
@@ -63,19 +57,13 @@ function showpos(position){
   		position: posicaoAtual,
   		map: map,
   		title:"Sua Posicao",
-		icon: 'icon/avisae30.png'		
+		icon: 'icon/seulocal.png'		
 	});			
 			
 	google.maps.event.addListener(map, 'click', function(event) {
 		document.getElementById("confirmAdicionar").style.display="block";
 		document.getElementById("lblCoordenadas").innerHTML=eval(event.latLng);				
 	});
-}
-
-var map = null; 
-
-function carregar(){
-	navigator.geolocation.getCurrentPosition(showpos)
 }
 
 function buscar(){
@@ -88,7 +76,7 @@ function buscar(){
 				position: latlng,
 				map: map,
 				title:endereco,
-				icon: 'icon/avisae30.png'
+				icon: 'icon/marcador.png'
 			});		
 			map.setCenter(latlng); 
 		}			

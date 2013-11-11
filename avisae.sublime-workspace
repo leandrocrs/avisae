@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 2096,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style/custom.css",
+			"settings":
+			{
+				"buffer_size": 111,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3189,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: java.util."
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/conta_000/AppData/Local/Temp/MarkdownPadPreview.html",
+		"/C/Users/conta_000/Documents/projetos/avisae/README.md",
+		"/C/Users/conta_000/AppData/Local/Temp/Temp1_avisae_alpha.zip/avisae_alpha/index.html",
+		"/C/Users/conta_000/Desktop/avisae_alpha/bb/themes/whatev/headers.css",
+		"/C/Users/conta_000/SkyDrive/Documentos/FATEC/2013 2 semestre/extras/firefox os hackathona/exemplos/firefoxos-sample-app-todos-master/firefoxos-sample-app-todos-master/index.html",
+		"/C/Users/conta_000/Desktop/avisae_alpha/index.html",
+		"/C/Users/conta_000/Desktop/Building-Blocks-gh-pages/Building-Blocks-gh-pages/util.css",
+		"/C/Users/conta_000/Desktop/avisae_alpha/manifest.webapp",
+		"/C/Users/conta_000/Desktop/avisae_alpha/app.html",
+		"/C/Users/conta_000/SkyDrive/Documentos/FATEC/2013 2 semestre/extras/firefox os hackathona/exemplos/firefoxos-sample-app-todos-master/firefoxos-sample-app-todos-master/app.js",
+		"/C/Users/conta_000/SkyDrive/Documentos/FATEC/2013 2 semestre/extras/firefox os hackathona/exemplos/firefoxos-sample-app-todos-master/firefoxos-sample-app-todos-master/manifest.webapp",
+		"/C/Users/conta_000/Desktop/Building-Blocks-gh-pages/Building-Blocks-gh-pages/manifest.webapp",
+		"/C/Users/conta_000/Desktop/Building-Blocks-gh-pages/Building-Blocks-gh-pages/app.html",
+		"/C/Users/conta_000/Desktop/avisae_alpha/style/fonts.css",
+		"/C/Users/conta_000/Desktop/Building-Blocks-gh-pages/Building-Blocks-gh-pages/index.html",
+		"/C/Users/conta_000/Desktop/Building-Blocks-gh-pages/Building-Blocks-gh-pages/fonts.css",
+		"/C/Users/conta_000/Desktop/Building-Blocks-gh-pages/Building-Blocks-gh-pages/transitions.css",
+		"/C/Users/conta_000/Desktop/Building-Blocks-gh-pages/Building-Blocks-gh-pages/README.md",
+		"/C/Users/conta_000/AppData/Local/Temp/Temp1_Building-Blocks-gh-pages.zip/Building-Blocks-gh-pages/index.html",
+		"/C/Users/conta_000/SkyDrive/Documentos/FATEC/2013 2 semestre/extras/firefox os hackathona/exemplos/firefoxos-sample-app-todos-master/firefoxos-sample-app-todos-master/README.md",
+		"/C/Users/conta_000/Dropbox/Documentos/configs/zshrc",
+		"/C/Users/conta_000/Dropbox/Documentos/configs/vimrc",
+		"/C/Users/conta_000/Desktop/xadreZ/Xadrez.JAVA",
+		"/C/Users/conta_000/Downloads/Quadrado.java",
+		"/C/Users/conta_000/Downloads/Desenho.java",
+		"/C/Users/conta_000/Google Drive/2012 2 semestre/estrutura de dados/2012-09-03/Pilha.java",
+		"/C/Users/conta_000/Google Drive/2012 2 semestre/estrutura de dados/2012-08-27/Lista.java",
+		"/C/Users/conta_000/Google Drive/2013 2 semestre/poo/sub 6/Calculadora.java",
+		"/C/Users/conta_000/Documents/GitHub/appfazeres/.git/index",
+		"/C/Users/conta_000/Google Drive/2013 2 semestre/poo/submission 3/Conta.java",
+		"/C/Users/conta_000/Google Drive/2013 2 semestre/poo/submission 3/CaixaEletronico.java",
+		"/C/Users/conta_000/Google Drive/2013 2 semestre/poo/submission 3/Transacao.java",
+		"/C/Users/conta_000/Google Drive/2013 2 semestre/poo/EstouraHeap.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rel=\"stylesheet\"",
+			"/>\n",
+			"section",
+			"link",
+			"<link href=\"bb/style/input_areas.css\" rel=\"stylesheet\">",
+			"building_blocks",
+			"fonts",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1574,
+								1574
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 519.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style/custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1796,
+								1796
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 233.0
+	},
+	"project": "avisae.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

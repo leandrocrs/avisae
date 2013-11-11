@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2999"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="C:\Users\conta_000\Documents\projetos\avisae\icon\buss.svg">
+  <defs
+     id="defs3011" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="777"
+     id="namedview3009"
+     showgrid="false"
+     inkscape:zoom="0.98333333"
+     inkscape:cx="110.39702"
+     inkscape:cy="206.30163"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2999" />
+  <title
+     id="title3001">buss</title>
+  <metadata
+     id="metadata18081">image/svg+xmlPublic Domainclker.comMohamed Ibrahimmap symbolsmap symbolsimage/svg+xmlMap SymbolsMohamed IbrahimPublic Domain Licenseclker.commap symbols<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <rect
+     style="fill:#d90003;fill-opacity:1;stroke:none;stroke-width:0.75951957999999997;stroke-opacity:1"
+     id="rect3016"
+     width="255.24048"
+     height="255.24048"
+     x="0.37975979"
+     y="0.37976074" />
+  <path
+     style="fill:#ffffff;fill-rule:nonzero"
+     inkscape:connector-curvature="0"
+     d="m 192.13843,43.153537 c -1.86501,-9.278014 -7.7956,-12.984016 -16.71452,-16.690524 -8.91941,-3.730507 -29.79509,-8.154203 -45.36181,-8.154203 -15.59122,0 -36.466392,4.423696 -45.3858,8.154203 -8.919432,3.706508 -14.849539,7.41251 -16.715047,16.690524 l -6.695316,51.459453 0,70.90026 11.549641,0 0,11.11952 c 0,13.53416 19.84738,13.53416 19.84738,0 l 0,-11.11952 74.821792,0 0,11.11952 c 0,13.53416 19.79937,13.53416 19.79937,0 l 0,-11.11952 11.52614,0 0,-70.90026 -6.67183,-51.459453 z m -93.210262,-13.486659 62.219872,0 c 6.12166,0 6.12166,11.597637 0,11.597637 l -62.219872,0 c -6.09766,0 -6.09766,-11.597637 0,-11.597637 M 82.715256,144.23145 c -5.762554,0 -10.449833,-4.66324 -10.449833,-10.47381 0,-5.76257 4.687279,-10.44985 10.449833,-10.44985 5.787077,0 10.473852,4.68728 10.473852,10.44985 0,5.81057 -4.686775,10.47381 -10.473852,10.47381 m 94.669194,0 c -5.78658,0 -10.49736,-4.66324 -10.49736,-10.47381 0,-5.76257 4.71078,-10.44985 10.49736,-10.44985 5.73906,0 10.4258,4.68728 10.4258,10.44985 0,5.81057 -4.68674,10.47381 -10.4258,10.47381 m 4.11311,-44.18998 -102.751375,0 c -2.989317,0 -5.475983,-2.48717 -5.475983,-5.47598 0,-0.50214 0.09552,-0.98078 0.191049,-1.4349 l 5.475984,-40.579499 c 0.454117,-2.5347 2.702225,-4.495231 5.356451,-4.495231 l 91.632364,0 c 2.65422,0 4.90184,1.960531 5.37996,4.495231 l 5.45197,40.579499 c 0.096,0.45412 0.19154,0.93276 0.19154,1.4349 0,2.98881 -2.46316,5.47598 -5.45196,5.47598"
+     id="path6764" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="20.271185"
+     y="228.64407"
+     id="text2999"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3001"
+       x="20.271185"
+       y="228.64407"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Matura MT Script Capitals;-inkscape-font-specification:Matura MT Script Capitals">Avisaê!</tspan></text>
+</svg>
